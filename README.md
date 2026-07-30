@@ -32,12 +32,6 @@ I build robust web applications, heavily utilizing strong MVC architectures. My 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-## 📊 GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&count_private=true)](https://github.com/Allan-Souza)
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&layout=compact)](https://github.com/Allan-Souza)
-
 ## 📫 Where to find me
 
 <p align="left">

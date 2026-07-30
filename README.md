@@ -34,8 +34,8 @@ I build robust web applications, heavily utilizing strong MVC architectures. My 
 
 ## 📊 GitHub Stats
 <p align="left">
-  <a href="https://github.com/your_github_username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Allan's GitHub Stats" />
+  <a href="https://github.com/Allan-Souza">
+    <img src="https://github-readme-stats.vercel.app/api?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Allan's GitHub Stats" />
   </a>
 </p>
 <p align="left">

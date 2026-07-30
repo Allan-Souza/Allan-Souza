@@ -35,12 +35,12 @@ I build robust web applications, heavily utilizing strong MVC architectures. My 
 ## 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/Allan-Souza">
-    <img src="https://github-readme-stats.vercel.app/api?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Allan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="My GitHub Stats" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/your_github_username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Allan's Top Languages" />
+  <a href="https://github.com/Allan-Souza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Souza&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="My Top Languages" />
   </a>
 </p>
 
